@@ -586,13 +586,13 @@
 
                 <div class="quick-action__buttons">
                   <div class="primary-btn-wrapper">
-                    <a href="#" class="btn primary-btn">Request Info</a>
+                    <a href="request-info.php" class="btn primary-btn">Request Info</a>
                   </div>
                   <div class="primary-btn-wrapper">
-                    <a href="#" class="btn primary-btn">Apply Now</a>
+                    <a href="apply-now.php" class="btn primary-btn">Apply Now</a>
                   </div>
                   <div class="primary-btn-wrapper">
-                    <a href="#" class="btn primary-btn">Visit Us</a>
+                    <a href="visit-us.php" class="btn primary-btn">Visit Us</a>
                   </div>
                 </div>
               </div>

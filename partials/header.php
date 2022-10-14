@@ -55,7 +55,7 @@
                     <!-- Header Right -->
                     <div class="header-right">
                         <div class="button-wrapper">
-                            <a class="btn primary-btn" href="#test-form">Apply Now <i class="fa fa-angle-double-right"></i></a>
+                            <a class="btn primary-btn" href="apply-now.php">Apply Now <i class="fa fa-angle-double-right"></i></a>
                         </div>
                     </div>
                 </div>
