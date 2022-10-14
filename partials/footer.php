@@ -31,8 +31,7 @@
                         <!-- <img src="assets/img/favicon.png" alt="" class="img-fluid" /> -->
                         <h5 class="footer-heading-title">VIRINCHI <span>means</span></h5> 
                         <p class="footer-about">
-                            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aut,
-                            excepturi.
+                            Out of 1008 names of Lord Mahadev, Virinchi is one which signifies Brahma, the creator of knowledge and wisdom.
                         </p>
                     </div>
 
