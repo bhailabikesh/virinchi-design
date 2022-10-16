@@ -134,17 +134,13 @@
                                                             <div class="swiper-slide">
                                                                 <div class="testimonial__swiper--card">
                                                                     <p>
-                                                                        “ Amet, nam arcu accumsan, a pretium,
-                                                                        euismod eget sem enim. Egestas pharetra
-                                                                        lectus ut ipsum. Morbi placerat pharetra
-                                                                        nam sed imperdiet ipsum auctor eget
-                                                                        posuere rutrum aruc. “
+                                                                        “ It’s truly said, “Right decision takes you up”. Just a year at Virinchi has helped me gain a clear vision of my career and future endeavors. At Virinchi teachers and students are more like friends and learning is a joyful experience. We all come here to learn, not to read. Workshops and training help us to develop profound skills in ourselves. Choosing Virinchi is one of the finest decisions I have ever made. “
                                                                     </p>
                                                                     <div class="media">
-                                                                        <img src="assets/img/testimonial-1.jpg" class="mr-3" alt="..." />
+                                                                        <img src="assets/img/MANJU_ITANI.jpg" class="mr-3" alt="..." />
                                                                         <div class="media-body">
-                                                                            <h5>Willie Tanner</h5>
-                                                                            <p>Law Student</p>
+                                                                            <h5>Manju Itani</h5>
+                                                                            <p>BICT Student</p>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -152,17 +148,41 @@
                                                             <div class="swiper-slide">
                                                                 <div class="testimonial__swiper--card">
                                                                     <p>
-                                                                        “ Amet, nam arcu accumsan, a pretium,
-                                                                        euismod eget sem enim. Egestas pharetra
-                                                                        lectus ut ipsum. Morbi placerat pharetra
-                                                                        nam sed imperdiet ipsum auctor eget
-                                                                        posuere rutrum aruc. “
+                                                                        “ The MBA program at Virinchi College is a demanding and intensive program that will help to take our career to the next level. Coming from an IT background, I decided to join MBA as I wanted to develop greater proficiency in public speaking, report preparation, strategic analysis, leadership, and project management which were all covered by Virinchi's MBA. “
                                                                     </p>
                                                                     <div class="media">
-                                                                        <img src="assets/img/testimonial-1.jpg" class="mr-3" alt="..." />
+                                                                        <img src="assets/img/Nuishan_Maskey.jpg" class="mr-3" alt="..." />
                                                                         <div class="media-body">
-                                                                            <h5>James Mathew</h5>
-                                                                            <p>HM Student</p>
+                                                                            <h5>Nuishan Maskey</h5>
+                                                                            <p>MBA Student</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="swiper-slide">
+                                                                <div class="testimonial__swiper--card">
+                                                                    <p>
+                                                                        “ Smart by Intellect, that is one thing that Virinchi College urges in and to far extent succeed in teaching to its students which invariably helps to achieve what you need. It nourished me and thus gave me an opportunity to define me. “
+                                                                    </p>
+                                                                    <div class="media">
+                                                                        <img src="assets/img/Sachet_Manandhar.jpg" class="mr-3" alt="..." />
+                                                                        <div class="media-body">
+                                                                            <h5>Sachet Manandhar</h5>
+                                                                            <p>BICT Student</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="swiper-slide">
+                                                                <div class="testimonial__swiper--card">
+                                                                    <p>
+                                                                        “ It is my immense fortune to be a part of Virinchi College. My experience at Virinchi College has been wonderful till now. Career development is a continuous process and MBA at Virinchi has been a journey of my career. MBA has helped me to upgrade myself as an entrepreneur & learn managerial skills." “
+                                                                    </p>
+                                                                    <div class="media">
+                                                                        <img src="assets/img/Soni_Gurung.jpg" class="mr-3" alt="..." />
+                                                                        <div class="media-body">
+                                                                            <h5>Soni Gurung</h5>
+                                                                            <p>MBA Student</p>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -183,17 +203,13 @@
                                                             <div class="swiper-slide">
                                                                 <div class="testimonial__swiper--card">
                                                                     <p>
-                                                                        “ Amet, nam arcu accumsan, a pretium,
-                                                                        euismod eget sem enim. Egestas pharetra
-                                                                        lectus ut ipsum. Morbi placerat pharetra
-                                                                        nam sed imperdiet ipsum auctor eget
-                                                                        posuere rutrum aruc. “
+                                                                        “ My experience with the Virinchi MBA program has been great. Supportive instructors, flexible class schedules, group interactions, and an awareness of the practical components of the courses have all aided my learning and helped me to apply what I’ve learned in the workplace. In an addition, it has provided me the confidence to advance in my career path. Hence, I would strongly suggest Virinchi College for working professionals and regular students. “
                                                                     </p>
                                                                     <div class="media">
-                                                                        <img src="assets/img/testimonial-1.jpg" class="mr-3" alt="..." />
+                                                                        <img src="assets/img/Sonika_Jha.jpeg" class="mr-3" alt="..." />
                                                                         <div class="media-body">
-                                                                            <h5>Willie Tanner</h5>
-                                                                            <p>Law Student</p>
+                                                                            <h5>Sonika Jha</h5>
+                                                                            <p>MBA Student</p>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -201,17 +217,13 @@
                                                             <div class="swiper-slide">
                                                                 <div class="testimonial__swiper--card">
                                                                     <p>
-                                                                        “ Amet, nam arcu accumsan, a pretium,
-                                                                        euismod eget sem enim. Egestas pharetra
-                                                                        lectus ut ipsum. Morbi placerat pharetra
-                                                                        nam sed imperdiet ipsum auctor eget
-                                                                        posuere rutrum aruc. “
+                                                                        “ I will Cherish my years in Virinchi forever and thank the college for shaping my personality and turning me into a capable ICT professional. “
                                                                     </p>
                                                                     <div class="media">
-                                                                        <img src="assets/img/testimonial-1.jpg" class="mr-3" alt="..." />
+                                                                        <img src="assets/img/SANIL_SHRESTHA.jpg" class="mr-3" alt="..." />
                                                                         <div class="media-body">
-                                                                            <h5>James Mathew</h5>
-                                                                            <p>HM Student</p>
+                                                                            <h5>Sanil Shrestha</h5>
+                                                                            <p>BICT Student</p>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -232,39 +244,18 @@
                                                             <div class="swiper-slide">
                                                                 <div class="testimonial__swiper--card">
                                                                     <p>
-                                                                        “ Amet, nam arcu accumsan, a pretium,
-                                                                        euismod eget sem enim. Egestas pharetra
-                                                                        lectus ut ipsum. Morbi placerat pharetra
-                                                                        nam sed imperdiet ipsum auctor eget
-                                                                        posuere rutrum aruc. “
+                                                                        “ It is a great honor to be part of the Virinchi Faculty of Software Engineering. It has been an intense academic experience for me as an academic facilitator, Virinchi is attracting great and highly-motivated students who want to pursue their careers in ICT. It is an honor to be part of Virinchi team. “
                                                                     </p>
                                                                     <div class="media">
-                                                                        <img src="assets/img/testimonial-1.jpg" class="mr-3" alt="..." />
+                                                                        <img src="assets/img/Rajesh_Singh.jpeg" class="mr-3" alt="..." />
                                                                         <div class="media-body">
-                                                                            <h5>Willie Tanner</h5>
-                                                                            <p>Law Student</p>
+                                                                            <h5>Rajesh Singh</h5>
+                                                                            <p>Faculty of SOFTWARE TESTING|QUALITY ASSURANCE</p>
                                                                         </div>
                                                                     </div>
                                                                 </div>
                                                             </div>
-                                                            <div class="swiper-slide">
-                                                                <div class="testimonial__swiper--card">
-                                                                    <p>
-                                                                        “ Amet, nam arcu accumsan, a pretium,
-                                                                        euismod eget sem enim. Egestas pharetra
-                                                                        lectus ut ipsum. Morbi placerat pharetra
-                                                                        nam sed imperdiet ipsum auctor eget
-                                                                        posuere rutrum aruc. “
-                                                                    </p>
-                                                                    <div class="media">
-                                                                        <img src="assets/img/testimonial-1.jpg" class="mr-3" alt="..." />
-                                                                        <div class="media-body">
-                                                                            <h5>James Mathew</h5>
-                                                                            <p>HM Student</p>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
+
                                                         </div>
                                                         <div class="swiper-button-prev"></div>
                                                         <div class="swiper-button-next"></div>

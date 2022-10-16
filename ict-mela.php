@@ -71,7 +71,7 @@
                         </div>
                         <div class="col-md-7">
                             <div class="row">
-                                <div class="col-6 mb-4">
+                                <div class="col-md-6 mb-4">
                                     <div class="card event__card">
                                         <a href="#">
                                             <img src="assets/img/event-1.png" alt="" class="card-img img-fluid">
@@ -85,7 +85,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-6 mb-4">
+                                <div class="col-md-6 mb-4">
                                     <div class="card event__card">
                                         <a href="#">
                                             <img src="assets/img/event-2.png" alt="" class="card-img img-fluid">
@@ -99,7 +99,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-6 mb-4">
+                                <div class="col-md-6 mb-4">
                                     <div class="card event__card">
                                         <a href="#">
                                             <img src="assets/img/event-3.png" alt="" class="card-img img-fluid">
@@ -113,7 +113,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-6 mb-4">
+                                <div class="col-md-6 mb-4">
                                     <div class="card event__card">
                                         <a href="#">
                                             <img src="assets/img/event-1.png" alt="" class="card-img img-fluid">

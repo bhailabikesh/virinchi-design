@@ -40,7 +40,7 @@
           students smart to create an acomplished life.
         </h1>
         <div class="primary-btn-wrapper">
-          <a href="#" class="btn primary-btn">Learn Now</a>
+          <a href="smart-intellect.php" class="btn primary-btn">Learn Now</a>
         </div>
       </div>
       <div class="home-hero__image">
@@ -539,7 +539,7 @@
                 <h2>The <span>University</span></h2>
               </div>
             </div>
-            <div class="col-lg-6 col-md-5">
+            <div class="col-lg-6 col-md-8">
               <div class="university__info">
                 <div class="university__info--wp">
                   <div class="section-title">
@@ -565,7 +565,7 @@
                 </div>
               </div>
             </div>
-            <div class="col-lg-6 col-md-7">
+            <div class="col-lg-6 col-md-4">
               <div class="university-wrapper">
                 <img src="assets/img/university.png" alt="" class="img-fluid card-img" />
 

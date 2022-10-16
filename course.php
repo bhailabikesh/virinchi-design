@@ -44,7 +44,7 @@
 
   <!-- Course Navbar Start -->
   <div id="course-nav" class="course-nav sticky-top">
-    <nav class="navbar navbar-expand-lg navbar-light">
+    <nav class="navbar navbar-expand navbar-light">
       <div class="container">
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav mr-auto">
@@ -122,7 +122,7 @@
               Hexagonal attributes of <span>Virinchi BICT</span>
             </h3>
             <div class="row">
-              <div class="col-6">
+              <div class="col-lg-6 col-md-12">
                 <p>
                   Here are the Lorem ipsum dolor sit amet, consectetur
                   adipisicing elit. Architecto delectus dolore libero nesciunt
@@ -244,7 +244,7 @@
       <div class="scope" id="scope">
         <div class="container">
           <div class="row">
-            <div class="col-md-5 col-12">
+            <div class="col-lg-5 col-md-6 col-12">
               <div class="scope-content">
                 <h3 class="course-title">Scope</h3>
                 <p>
@@ -260,6 +260,10 @@
                 </p>
               </div>
             </div>
+
+            <div class="col-md-12 d-md-none d-block mb-4">
+              <img src="assets/img/bict-1_03.jpg" alt="" class="img-fluid" />
+              </div>
             <div class="scope-img">
               <img src="assets/img/bict-1_03.jpg" alt="" class="img-fluid" />
             </div>
