@@ -6,7 +6,6 @@
                     <div class="col-md-6">
                         <div class="footer__contact">
                             <p>
-                                Virinchi College<br/>
                                 Taphalho Rd, Kumaripati<br/>
                                 Lalitpur, Nepal<br/>
                                 P.O. Box: 8641<br/>
@@ -57,7 +56,7 @@
 
                     <div class="col-md-4">
                         <div class="primary-btn-wrapper">
-                            <a href="#" class="btn secondary-btn">Login <i class="ti-arrow-top-right"></i></a>
+                            <a href="#" class="btn secondary-btn">Student Login <i class="ti-arrow-top-right"></i></a>
                         </div>
                     </div>
                 </div>

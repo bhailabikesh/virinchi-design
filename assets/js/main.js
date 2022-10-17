@@ -20,14 +20,18 @@
   /*  Sticky Menu  */
   $(window).on("scroll", function () {
     var scroll = $(window).scrollTop();
+    
     if (scroll < 1) {
       $(".header-sticky").removeClass("sticky-bar");
       $(".course-header .header-sticky").removeClass("sticky-bar");
       $(".logo-img").removeClass("img-scrolled");
+      $(".course-nav .button-wrapper").hide();
+      
     } else {
       $(".header-sticky").addClass("sticky-bar");
       $(".course-header .header-sticky").removeClass("sticky-bar");
       $(".logo-img").addClass("img-scrolled");
+      $(".course-nav .button-wrapper").show();
     }
 
   });
@@ -37,6 +41,7 @@
     if (scroll < 245) {
       $(".header-sticky").removeClass("sticky");
       $(".course-nav").removeClass("shadow-nav");
+      
     } else {
       $(".header-sticky").addClass("sticky");
       $(".course-nav").addClass("shadow-nav");
@@ -194,7 +199,7 @@
     },
     duration: 2,
     scale: 1.5,
-    y: -300
+    y: -350
   })
   // gsap.to(".home-hero__subtext", {
   //   scrollTrigger: {

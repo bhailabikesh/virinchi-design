@@ -17,25 +17,25 @@
                                     <ul class="submenu">
                                         <li><a href="#">Programs <i class="fa fa-chevron-right float-right"></i></a>
                                             <ul class="submenu megamenu">
-                                                <li><a href="course.php">BICT</a>
+                                                <li><a href="program-bict.php">BICT</a>
 
                                                 </li>
-                                                <li><a href="course.php">MBA</a></li>
+                                                <li><a href="program-mba.php">MBA</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="admission.php">Admission</a></li>
+                                        <li><a href="how-to-apply.php">Admission</a></li>
                                     </ul>
                                 </li>
                                 <li>
                                     <a href="#">College <i class="fa fa-chevron-down"></i></a>
                                     <ul class="submenu">
-                                        <li><a href="ict-mela.php">ICT Mela</a></li>
-                                        <li><a href="clubs.php">Clubs</a></li>
-                                        <li><a href="teach-to-learn.php">Teach to Learn</a></li>
+                                        <li><a href="#">ICT Mela</a></li>
+                                        <li><a href="#">Clubs</a></li>
+                                        <li><a href="#">Teach to Learn</a></li>
                                     </ul>
                                 </li>
 
-                                <li><a href="affiliation.php">Affliation</a></li>
+                                <li><a href="affiliation.php">Affiliation</a></li>
                                 <li>
                                     <a href="#">About <i class="fa fa-chevron-down"></i></a>
                                     <ul class="submenu">

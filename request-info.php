@@ -31,7 +31,7 @@
     <div class="banner">
         <div class="container">
             <div class="banner-wrapper">
-                <h2>Request Info</h2>
+                <h2>Request Information</h2>
             </div>
         </div>
     </div>
@@ -43,10 +43,7 @@
             <div class="container">
                 <div class="request-title">
                     <p>
-                        For more information from Virinchi, including invitations to upcoming admissions and events, please complete the form below.
-                    </p>
-                    <p>
-                        Fill out this short form to tell us more about yourself –and give us a chance to tell you more about us.
+                        For more information from Virinchi, including invitations to upcoming admissions and events, please fill out this short form to tell us more about yourself –and give us a chance to tell you more about us.
                     </p>
                 </div>
 
@@ -55,14 +52,14 @@
 
 
                         <div class="row">
-                            <div class="form-group col-md-4 col-12">
+                            <div class="form-group col-md-6 col-12">
                                 <label for="name" class="bold-label">NAME <strong>*</strong></label>
                                 <input type="text" class="form-control" id="name">
                             </div>
                         </div>
 
                         <div class="row">
-                            <div class="form-group col-md-4 col-12">
+                            <div class="form-group col-md-6 col-12">
                                 <label for="phone" class="bold-label">PHONE<strong>*</strong></label>
                                 <input type="tel" class="form-control" id="phone">
                             </div>
@@ -76,7 +73,7 @@
                         </div>
 
                         <div class="row">
-                            <div class="form-group col-md-4 col-12">
+                            <div class="form-group col-md-6 col-12">
                                 <label class="bold-label">WHAT PROGRAM ARE YOU INTERESTED IN? <strong>*</strong></label>
                                 <select name="" id="" class="form-control fm-default">
                                     <option value="">-- Select One --</option>
@@ -87,7 +84,7 @@
                         </div>
 
                         <div class="row">
-                            <div class="form-group col-md-4 col-12">
+                            <div class="form-group col-md-6 col-12">
                                 <label class="bold-label">WHEN WOULD YOU LIKE TO START AT VIRINCHI? <strong>*</strong></label>
                                 <select name="" id="" class="form-control fm-default">
                                     <option value="">-- Select One --</option>
@@ -98,7 +95,7 @@
                         </div>
 
                         <div class="row">
-                            <div class="form-group col-md-4 col-12">
+                            <div class="form-group col-md-6 col-12">
                                 <label class="bold-label">HIGHEST LEVEL OF EDUCATION ACHIEVED <strong>*</strong></label>
                                 <select name="" id="" class="form-control fm-default">
                                     <option value="">-- Select One --</option>
@@ -121,7 +118,7 @@
                         <div class="applyonline-footer">
                             <!-- <div class="button-wrapper"> -->
                             <a class="btn primary-btn" href="#">Submit</a>
-                            <a class="btn grey-btn" href="#">Visit Us</a>
+                            <a class="btn grey-btn" href="visit-us.php">Visit Us</a>
                             <!-- </div> -->
                         </div>
 
@@ -131,6 +128,7 @@
         </div>
         <!-- Apply End -->
 
+        <!-- Contact us Start -->
         <div class="full_width_callouts">
             <div class="contact_block">
                 <div class="contact_block_inner">
@@ -139,9 +137,9 @@
                             <div class="contact_wrapper">
                                 <div class="contact_header">
                                     <div class="contact_types">
-                                        <span class="contact_heading_label">CONTACT INFORMATION</span>
+                                        <span class="contact_heading_label">OFFICE OF ADMISSIONS</span>
                                         <h2 class="contact_name" itemprop="name">
-                                            <span class="contact_name_label">Office of Admissions</span>
+                                            <span class="contact_name_label">Meet the admissions COUNSELORS</span>
                                         </h2>
                                         <p class="contact_info">
                                             We are looking forward to meeting you! Our admissions counselors are here to answer your questions
@@ -177,7 +175,7 @@
                 </div>
             </div>
         </div>
-
+        <!-- Contact us End -->
     </main>
 
     <!-- footer start -->

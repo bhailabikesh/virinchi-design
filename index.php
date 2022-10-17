@@ -45,6 +45,7 @@
       </div>
       <div class="home-hero__image">
         <img alt="" class="home-hero__ui loaded" onload="this.classList.add('loaded')" src="assets/img/hero.png" />
+        <!-- <span class="image-text">Some stones are polished to be diamond so are Virnchians, they shine bright in their career</span> -->
       </div>
     </div>
   </div>
@@ -88,7 +89,7 @@
                     </div>
                     <div class="program__card--action">
                       <div class="primary-btn-wrapper">
-                        <a href="course.php" class="btn primary-btn">Learn More</a>
+                        <a href="program-bict.php" class="btn primary-btn">Learn More</a>
                       </div>
                     </div>
                   </div>
@@ -107,7 +108,7 @@
                     </div>
                     <div class="program__card--action">
                       <div class="primary-btn-wrapper">
-                        <a href="course.php" class="btn primary-btn">Learn More</a>
+                        <a href="program-mba.php" class="btn primary-btn">Learn More</a>
                       </div>
                     </div>
                   </div>
@@ -245,7 +246,8 @@
                                     <img src="assets/img/MANJU_ITANI.jpg" class="mr-3" alt="..." />
                                     <div class="media-body">
                                       <h5>Manju Itani</h5>
-                                      <p>BICT Student</p>
+                                      <p>7th Semester, BICT</p>
+                                      <span>Jan 2020 Intake</span>
                                     </div>
                                   </div>
                                 </div>
@@ -259,7 +261,8 @@
                                     <img src="assets/img/Nuishan_Maskey.jpg" class="mr-3" alt="..." />
                                     <div class="media-body">
                                       <h5>Nuishan Maskey</h5>
-                                      <p>MBA Student</p>
+                                      <p>Batch of MAY 2022, MBA</p>
+                                      <span>Working as UX Designer / Developer Remote Coach (Google Startup) – UK</span>
                                     </div>
                                   </div>
                                 </div>
@@ -273,7 +276,8 @@
                                     <img src="assets/img/Sachet_Manandhar.jpg" class="mr-3" alt="..." />
                                     <div class="media-body">
                                       <h5>Sachet Manandhar</h5>
-                                      <p>BICT Student</p>
+                                      <p>7th Semester, BICT</p>
+                                      <span>Jan 2020 Intake</span>
                                     </div>
                                   </div>
                                 </div>
@@ -288,6 +292,7 @@
                                     <div class="media-body">
                                       <h5>Soni Gurung</h5>
                                       <p>MBA Student</p>
+                                      <span>Batch of Sept 2021</span>
                                     </div>
                                   </div>
                                 </div>
@@ -314,7 +319,8 @@
                                     <img src="assets/img/Sonika_Jha.jpeg" class="mr-3" alt="..." />
                                     <div class="media-body">
                                       <h5>Sonika Jha</h5>
-                                      <p>MBA Student</p>
+                                      <p>Class of 2022, MBA</p>
+                                      <span>Senior Project Manager, Eb Pearls</span>
                                     </div>
                                   </div>
                                 </div>
@@ -328,7 +334,8 @@
                                     <img src="assets/img/SANIL_SHRESTHA.jpg" class="mr-3" alt="..." />
                                     <div class="media-body">
                                       <h5>Sanil Shrestha</h5>
-                                      <p>BICT Student</p>
+                                      <p>Class of 2020, BICT</p>
+                                      <span>Java Developer, Leapfrog Inc</span>
                                     </div>
                                   </div>
                                 </div>
@@ -356,11 +363,12 @@
                                     <div class="media-body">
                                       <h5>Rajesh Singh</h5>
                                       <p>Faculty of SOFTWARE TESTING|QUALITY ASSURANCE</p>
+                                      <span>Working as QA Engineer, Asterdio Inc</span>
                                     </div>
                                   </div>
                                 </div>
                               </div>
-                             
+
                             </div>
                             <div class="swiper-button-prev"></div>
                             <div class="swiper-button-next"></div>
@@ -385,9 +393,9 @@
           <div class="text-center">
             <div class="section-title">
               <h2>
-                <a href="ict-mela.php">Tech news from <span>Virinchians</span></a>
+                <a href="tech-news-listing.php">Tech news from <span>Virinchians</span></a>
               </h2>
-              <a href="#"><img src="assets/img/arrow-right-lg.svg" alt="" class="img-fluid" /></a>
+              <a href="tech-news-listing.php"><img src="assets/img/arrow-right-lg.svg" alt="" class="img-fluid" /></a>
             </div>
           </div>
 
@@ -395,25 +403,31 @@
             <div class="col-md-10 col-12">
               <div class="row">
                 <div class="col-md-4 col-sm-6 mb-3 pr-1">
-                  <a href="#" data-toggle="modal" data-target="#videoModal">
-                    <img src="assets/img/news-1.png" alt="" class="img-fluid tech-img" />
+                  <a href="tech-news-details.php">
+                      <div class="tech-news-card">
+                      <img src="https://img.youtube.com/vi/rRZfY6s9gkM/hqdefault.jpg" alt="" class="img-fluid tech-img" />
+                    </div>
                   </a>
                 </div>
                 <div class="col-md-4 col-sm-6 mb-3 pr-1">
-                  <a href="#" data-toggle="modal" data-target="#videoModal">
-                    <img src="assets/img/news-2.png" alt="" class="img-fluid tech-img" />
+                  <a href="tech-news-details.php">
+                      <div class="tech-news-card">
+                      <img src="https://img.youtube.com/vi/oZ-BAEx1yIo/hqdefault.jpg" alt="" class="img-fluid tech-img" />
+                    </div>
                   </a>
                 </div>
                 <div class="col-md-4 col-sm-6 mb-3 pr-1">
-                  <a href="#" data-toggle="modal" data-target="#videoModal">
-                    <img src="assets/img/news-3.png" alt="" class="img-fluid tech-img" />
+                  <a href="tech-news-details.php">
+                    <div class="tech-news-card">
+                      <img src="https://img.youtube.com/vi/a8QkEz06gCM/hqdefault.jpg" alt="" class="img-fluid tech-img" />
+                    </div>
                   </a>
                 </div>
               </div>
             </div>
 
             <!-- Video Modal -->
-            <div class="modal fade" id="videoModal" tabindex="-1" aria-labelledby="videoModalLabel" aria-hidden="true">
+            <!-- <div class="modal fade" id="videoModal" tabindex="-1" aria-labelledby="videoModalLabel" aria-hidden="true">
               <div class="modal-dialog modal-dialog-centered modal-lg">
 
                 <div class="modal-content">
@@ -428,7 +442,7 @@
 
                 </div>
               </div>
-            </div>
+            </div> -->
             <!-- Video Modal End -->
           </div>
         </div>
@@ -446,7 +460,7 @@
               </div>
 
               <div class="event__learn-more">
-                <a href="ict-mela.php">Learn More
+                <a href="event-listing.php">Learn More
                   <img src="assets/img/arrow-right-lg.svg" alt="" class="img-fluid event-img" /></a>
               </div>
 
@@ -461,20 +475,6 @@
                     </a>
                     <div class="event__card--date">
                       <p>NOV<span>07</span></p>
-                    </div>
-                  </div>
-                </div>
-
-                <div class="item">
-                  <div class="card event__card">
-                    <a href="#">
-                      <img src="assets/img/news-2.jpg" alt="" class="card-img img-fluid event-img" />
-                      <h6>
-                        7-day Sports Week Held -4th July to 10 July 2022
-                      </h6>
-                    </a>
-                    <div class="event__card--date">
-                      <p>Jul<span>04</span></p>
                     </div>
                   </div>
                 </div>
@@ -510,13 +510,27 @@
                 <div class="item">
                   <div class="card event__card">
                     <a href="#">
+                      <img src="assets/img/news-2.jpg" alt="" class="card-img img-fluid event-img" />
+                      <h6>
+                        7-day Sports Week Held -4th July to 10 July 2022
+                      </h6>
+                    </a>
+                    <div class="event__card--date">
+                      <p>Jul<span>01</span></p>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="item">
+                  <div class="card event__card">
+                    <a href="#">
                       <img src="assets/img/news-1.jpg" alt="" class="card-img img-fluid event-img" />
                       <h6>
                         A practical guide to git and github
                       </h6>
                     </a>
                     <div class="event__card--date">
-                      <p>NOV<span>07</span></p>
+                      <p>Jun<span>28</span></p>
                     </div>
                   </div>
                 </div>
@@ -546,7 +560,6 @@
                     <p>
                       One of the best E University in Asia https://aeu.edu.my
                     </p>
-                    <br />
                     <p>
                       <b>Asia e University (AeU)</b> is an international
                       university in Subang Jaya, Malaysia that offers
@@ -560,7 +573,7 @@
                   </div>
                   <br />
                   <div class="primary-btn-wrapper">
-                    <a href="#" class="btn primary-btn">Learn More</a>
+                    <a href="affiliation.php" class="btn primary-btn">Learn More</a>
                   </div>
                 </div>
               </div>
@@ -569,7 +582,7 @@
               <div class="university-wrapper">
                 <img src="assets/img/university.png" alt="" class="img-fluid card-img" />
 
-                <a href="#" class="play">
+                <a href="https://player.vimeo.com/video/299779943" class="play" target="_blank">
                   <img src="assets/img/video-play.png" alt="" class="img-fluid" />
                 </a>
               </div>
@@ -596,7 +609,7 @@
                     <a href="request-info.php" class="btn primary-btn">Request Info</a>
                   </div>
                   <div class="primary-btn-wrapper">
-                    <a href="apply-now.php" class="btn primary-btn">Apply Now</a>
+                    <a href="how-to-apply.php" class="btn primary-btn">Apply Now</a>
                   </div>
                   <div class="primary-btn-wrapper">
                     <a href="visit-us.php" class="btn primary-btn">Visit Us</a>
