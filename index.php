@@ -45,7 +45,7 @@
       </div>
       <div class="home-hero__image">
         <img alt="" class="home-hero__ui loaded" onload="this.classList.add('loaded')" src="assets/img/hero.png" />
-        <!-- <span class="image-text">Some stones are polished to be diamond so are Virnchians, they shine bright in their career</span> -->
+        <span class="image-text">Some stones are polished to be diamond so are Virnchians, they shine bright in their career</span>
       </div>
     </div>
   </div>
@@ -136,7 +136,7 @@
                   <img class="gallery-image__media lazyloaded" alt="Studying on Killian Court" src="assets/img/life (1).jpg" />
                 </div>
                 <figcaption class="gallery-image__caption">
-                  Studying on Killian Court
+                  PREPARING HOME AUTOMATION FOR EXIBITION
                 </figcaption>
               </a>
             </figure>
@@ -147,7 +147,7 @@
                   <img class="gallery-image__media lazyloaded" alt="Studying on Killian Court" src="assets/img/life (2).jpg" />
                 </div>
                 <figcaption class="gallery-image__caption">
-                  Studying on Killian Court
+                  Virinchians' together
                 </figcaption>
               </a>
             </figure>
@@ -158,7 +158,7 @@
                   <img class="gallery-image__media lazyloaded" alt="Studying on Killian Court" src="assets/img/life (3).jpg" />
                 </div>
                 <figcaption class="gallery-image__caption">
-                  Studying on Killian Court
+                  View of INFINITY CUBE created during ICT Mela
                 </figcaption>
               </a>
             </figure>
@@ -169,7 +169,7 @@
                   <img class="gallery-image__media lazyloaded" alt="Studying on Killian Court" src="assets/img/life (4).jpg" />
                 </div>
                 <figcaption class="gallery-image__caption">
-                  Studying on Killian Court
+                  Makers of Robo Ramp Race
                 </figcaption>
               </a>
             </figure>
@@ -177,10 +177,10 @@
             <figure class="gallery-image gallery-image--1x3 loaded" id="image5">
               <a href="#image5">
                 <div class="gallery-image__crop" tabindex="-1">
-                  <img class="gallery-image__media lazyloaded" alt="Studying on Killian Court" src="assets/img/life (5).jpg" />
+                  <img class="gallery-image__media lazyloaded" alt="Celebrating Convocation 2022" src="assets/img/life (5).jpg" />
                 </div>
                 <figcaption class="gallery-image__caption">
-                  Studying on Killian Court
+                  Celebrating Convocation 2022
                 </figcaption>
               </a>
             </figure>
@@ -188,10 +188,10 @@
             <figure class="gallery-image gallery-image--1x12 loaded" id="image6">
               <a href="#image6">
                 <div class="gallery-image__crop" tabindex="-1">
-                  <img class="gallery-image__media lazyloaded" alt="Studying on Killian Court" src="assets/img/life (6).jpg" />
+                  <img class="gallery-image__media lazyloaded" alt="Performers at 5th V- Celebration" src="assets/img/life (6).jfif" />
                 </div>
                 <figcaption class="gallery-image__caption">
-                  Studying on Killian Court
+                  Performers at 5th V- Celebration
                 </figcaption>
               </a>
             </figure>
@@ -199,10 +199,10 @@
             <figure class="gallery-image gallery-image--1x1 loaded" id="image7">
               <a href="#image7">
                 <div class="gallery-image__crop" tabindex="-1">
-                  <img class="gallery-image__media lazyloaded" alt="Studying on Killian Court" src="assets/img/life (7).jpg" />
+                  <img class="gallery-image__media lazyloaded" alt="College Building" src="assets/img/life (7).jpeg" />
                 </div>
                 <figcaption class="gallery-image__caption">
-                  Studying on Killian Court
+                  College Building
                 </figcaption>
               </a>
             </figure>
@@ -404,14 +404,14 @@
               <div class="row">
                 <div class="col-md-4 col-sm-6 mb-3 pr-1">
                   <a href="tech-news-details.php">
-                      <div class="tech-news-card">
+                    <div class="tech-news-card">
                       <img src="https://img.youtube.com/vi/rRZfY6s9gkM/hqdefault.jpg" alt="" class="img-fluid tech-img" />
                     </div>
                   </a>
                 </div>
                 <div class="col-md-4 col-sm-6 mb-3 pr-1">
                   <a href="tech-news-details.php">
-                      <div class="tech-news-card">
+                    <div class="tech-news-card">
                       <img src="https://img.youtube.com/vi/oZ-BAEx1yIo/hqdefault.jpg" alt="" class="img-fluid tech-img" />
                     </div>
                   </a>
@@ -561,14 +561,8 @@
                       One of the best E University in Asia https://aeu.edu.my
                     </p>
                     <p>
-                      <b>Asia e University (AeU)</b> is an international
-                      university in Subang Jaya, Malaysia that offers
-                      on-campus, blended and online learning mode programmes.
-                      An institution set in Asia, by Asians, and for Asia –
-                      founded by the Asia Cooperation Dialogue foreign
-                      ministers. Asia Cooperation Dialogue is represented by
-                      the foreign ministers of 34 Asia Pacific countries, and
-                      it aims to promote ..
+                      <b>Asia e University (AeU)</b> is the COLLABORATIVE MULTINATIONAL UNIVERSITY founded by Asia
+                      Cooperation Dialogue (ACD) with support of 34 Asian Pacific countries.
                     </p>
                   </div>
                   <br />
@@ -713,7 +707,7 @@
     $(document).ready(function() {
       $(".list-student").click(function() {
         $("#testimonial").css({
-          "background-image": "url(./assets/img/testimonial-bg1.png)",
+          "background-image": "url(./assets/img/testimonial-bg1.jpg)",
         });
       });
       $(".list-alumni").click(function() {

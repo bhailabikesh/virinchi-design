@@ -200,7 +200,7 @@
                 <div class="hex-inner">
                   <div class="hex-front">
                     <div class="hex-front-in">
-                      <p>Reaching Out Customers</p>
+                      <p>Reaching<br> Out Customers</p>
                     </div>
                   </div>
                   <div class="hex-back">
