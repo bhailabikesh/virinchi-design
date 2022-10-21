@@ -1,7 +1,7 @@
 <footer class="footer">
     <div class="container">
         <div class="row">
-            <div class="col-md-8">
+            <div class="col-md-7">
                 <div class="row">
                     <div class="col-md-7">
                         <div class="footer__contact">
@@ -37,7 +37,7 @@
 
                 </div>
             </div>
-            <div class="col-md-4">
+            <div class="col-md-5">
                 <div class="row">
                     <div class="col-md-6">
                         <ul class="footer__list">

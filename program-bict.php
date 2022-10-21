@@ -270,10 +270,10 @@
             </div>
 
             <div class="col-md-12 d-md-none d-block mb-4">
-              <img src="assets/img/bict-1_03.jpg" alt="" class="img-fluid" />
+              <img src="assets/img/scope.jpg" alt="" class="img-fluid" />
             </div>
             <div class="scope-img">
-              <img src="assets/img/bict-1_03.jpg" alt="" class="img-fluid" />
+              <img src="assets/img/scope.jpg" alt="" class="img-fluid" />
             </div>
           </div>
         </div>
@@ -438,70 +438,76 @@
               <figure class="gallery-image gallery-image--1x1 loaded" id="image1">
                 <a href="#image1">
                   <div class="gallery-image__crop" tabindex="-1">
-                    <img class="gallery-image__media lazyloaded" alt="Studying on Killian Court" src="assets/img/life (1).jpg" />
+                    <img class="gallery-image__media lazyloaded" alt="ICT Mela 2.0" src="assets/img/bict/bict-1.jpg" />
                   </div>
                   <figcaption class="gallery-image__caption">
-                    Studying on Killian Court
+                    ICT Mela 2.0
                   </figcaption>
                 </a>
               </figure>
+
               <figure class="gallery-image gallery-image--1x1 loaded" id="image2">
                 <a href="#image2">
                   <div class="gallery-image__crop" tabindex="-1">
-                    <img class="gallery-image__media lazyloaded" alt="Studying on Killian Court" src="assets/img/life (2).jpg" />
+                    <img class="gallery-image__media lazyloaded" alt="Students in Workshop" src="assets/img/bict/bict-2.jpg" />
                   </div>
                   <figcaption class="gallery-image__caption">
-                    Studying on Killian Court
+                    Students in Workshop
                   </figcaption>
                 </a>
               </figure>
+
               <figure class="gallery-image gallery-image--1x12 loaded" id="image3">
                 <a href="#image3">
                   <div class="gallery-image__crop" tabindex="-1">
-                    <img class="gallery-image__media lazyloaded" alt="Studying on Killian Court" src="assets/img/life (3).jpg" />
+                    <img class="gallery-image__media lazyloaded" alt="Contestents-of-Squid-Game-organized-during-ICT-Mela-2.0" src="assets/img/bict/bict-3.jpg" />
                   </div>
                   <figcaption class="gallery-image__caption">
-                    Studying on Killian Court
+                    Contestents of Squid Game organized during ICT Mela 2.0
                   </figcaption>
                 </a>
               </figure>
+
               <figure class="gallery-image gallery-image--1x12 loaded" id="image4">
                 <a href="#image4">
                   <div class="gallery-image__crop" tabindex="-1">
-                    <img class="gallery-image__media lazyloaded" alt="Studying on Killian Court" src="assets/img/life (4).jpg" />
+                    <img class="gallery-image__media lazyloaded" alt="Firefighting Robot" src="assets/img/bict/bict-4.jpg" />
                   </div>
                   <figcaption class="gallery-image__caption">
-                    Studying on Killian Court
+                    Firefighting Robot
                   </figcaption>
                 </a>
               </figure>
+
               <figure class="gallery-image gallery-image--1x3 loaded" id="image5">
                 <a href="#image5">
                   <div class="gallery-image__crop" tabindex="-1">
-                    <img class="gallery-image__media lazyloaded" alt="Studying on Killian Court" src="assets/img/life (5).jpg" />
+                    <img class="gallery-image__media lazyloaded" alt="Fun Moment" src="assets/img/bict/bict-5.jpg" />
                   </div>
                   <figcaption class="gallery-image__caption">
-                    Studying on Killian Court
+                    Fun Moment
                   </figcaption>
                 </a>
               </figure>
+
               <figure class="gallery-image gallery-image--1x12 loaded" id="image6">
                 <a href="#image6">
                   <div class="gallery-image__crop" tabindex="-1">
-                    <img class="gallery-image__media lazyloaded" alt="Studying on Killian Court" src="assets/img/life (6).jpg" />
+                    <img class="gallery-image__media lazyloaded" alt="Hardware assembling workshop for school students" src="assets/img/bict/bict-6.jpg" />
                   </div>
                   <figcaption class="gallery-image__caption">
-                    Studying on Killian Court
+                    Hardware assembling workshop for school students
                   </figcaption>
                 </a>
               </figure>
+
               <figure class="gallery-image gallery-image--1x1 loaded" id="image7">
                 <a href="#image7">
                   <div class="gallery-image__crop" tabindex="-1">
-                    <img class="gallery-image__media lazyloaded" alt="Studying on Killian Court" src="assets/img/life (7).jpg" />
+                    <img class="gallery-image__media lazyloaded" alt="ICT experts at Panel discussion" src="assets/img/bict/bict-7.jpg" />
                   </div>
                   <figcaption class="gallery-image__caption">
-                    Studying on Killian Court
+                    ICT experts at Panel discussion
                   </figcaption>
                 </a>
               </figure>

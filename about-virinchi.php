@@ -36,40 +36,34 @@
         </div>
     </div>
     <!-- Banner End -->
-
     <main>
         <!-- About Start -->
-        <div class="about-virinchi">
+        <div class="mission mt-5">
             <div class="container">
-                <div class="row">
-                    <div class="col-md-6">
-                        <div class="img_container">
-                            <div class="img-box b1">
-                                <img src="assets/img/a-1.jpg" alt="" class="img-fluid">
-                            </div>
-                            <div class="img-box b2">
-                                <img src="assets/img/a-2.jpg" alt="" class="img-fluid">
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-md-6">
-                        <div class="detail-box">
-                            <div class="section-title">
-                                <h2>About <span>Virinchi</span></h2>
-                            </div>
-                            <p>
-                                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laudantium corporis perspiciatis itaque, blanditiis dolore magnam adipisci ea pariatur voluptatem rerum aut! Illum, recusandae nesciunt fuga dignissimos ipsam facere nobis nisi officia tempore possimus autem eum doloremque sunt neque veniam ea eius consectetur incidunt excepturi a animi perferendis commodi! Vero, molestiae?
-                            </p>
-                        </div>
-                    </div>
+                <div class="overview-content">
+                    <h3 class="course-title">Virinchi <span>College</span></h3>
+                    <p>
+                        Virinchi college is established with the objective to bridge the education and industry. It has been consistently offering global standard education for Nepalese students to become job ready. Besides internationally recognized degrees we offer various valued skilled courses that has significantly high demand among the industries. Our consistent effort is towards design and upgrade curriculum which inculcates lifelong learning attitude among our students. Our effort is to attract probing learners and offer them unparalleled learning exposure and experiences.
+                    </p>
+                    <p>
+                        Virinchi is in partnership with Asia e University (AeU), a collaborative multinational University established as the outcome of initiative of Asia Cooperation Dialogue (ACD)
+                    </p>
+                    <p>
+                        We focus on making students ready for change, inculcate the art of thinking innovatively to solve problems and imbibe behavioral and domain skills with a focus on values to join the workforce of a company. Moreover we are committed to produce globally competent graduates who can fit themselves in the multi-cultural environment.
+                    </p>
+                    <p>
+                        We believe that we should be timely prepared for competitive and demanding world with ICT expertise, managerial abilities, people skills, attitude and abilities to lead, prompt decision-making abilities and sense of honoring multi-cultural values and norms. We are committed to fully groom every enrolled students with all technical, managerial and social requirements of business houses and the stakeholders. We have a firm faith on our human resources, their determination and enduring commitment to all stakeholders that will always have an edge over others to lead and be distinct and better.
+                    </p>
+                    <p>
+                        (Established in 2013 and has started academic programs from 2015……
+                    </p>
                 </div>
             </div>
         </div>
         <!-- About End -->
 
         <!-- Our Mission Start -->
-        <div class="mission">
+        <!-- <div class="mission">
             <div class="container">
                 <div class="overview-content">
                     <h3 class="course-title">Our <span>Mission</span></h3>
@@ -84,11 +78,11 @@
                     </p>
                 </div>
             </div>
-        </div>
+        </div> -->
         <!-- Our Mission End -->
 
         <!-- Our Vision Start -->
-        <div class="vision">
+        <!-- <div class="vision">
             <div class="container">
                 <div class="overview-content">
                     <h3 class="course-title">Our <span>Vision</span></h3>
@@ -103,175 +97,8 @@
                     </p>
                 </div>
             </div>
-        </div>
+        </div> -->
         <!-- Our Vision End -->
-
-        <!-- Testimonial Start -->
-        <section class="testimonial" id="testimonial">
-            <div class="testimonial-overlay"></div>
-            <div class="container">
-                <div class="testimonial__tab">
-                    <div class="row">
-                        <div class="col-12">
-                            <div class="row">
-                                <div class="col-12">
-                                    <h2 class="testimonial__title">In their words.</h2>
-                                </div>
-                                <div class="col-12">
-                                    <div class="list-group" id="list-tab" role="tablist">
-                                        <a class="list-group-item list-group-item-action active list-student" id="list-student-list" data-toggle="list" href="#list-student" role="tab" aria-controls="student">Students On Experience</a>
-                                        <a class="list-group-item list-group-item-action list-alumni" id="list-alumni-list" data-toggle="list" href="#list-alumni" role="tab" aria-controls="alumni">Alumni On Outcomes</a>
-                                        <a class="list-group-item list-group-item-action list-faculty" id="list-faculty-list" data-toggle="list" href="#list-faculty" role="tab" aria-controls="faculty">Faculty On Academics</a>
-                                    </div>
-                                </div>
-                                <div class="col-12">
-                                    <div class="tab-content" id="nav-tabContent">
-                                        <div class="tab-pane fade show active" id="list-student" role="tabpanel" aria-labelledby="list-student-list">
-                                            <div class="row">
-                                                <div class="col-md-10 col-12">
-                                                    <div class="swiper testimonial__swiper">
-                                                        <div class="swiper-wrapper">
-                                                            <div class="swiper-slide">
-                                                                <div class="testimonial__swiper--card">
-                                                                    <p>
-                                                                        “ It’s truly said, “Right decision takes you up”. Just a year at Virinchi has helped me gain a clear vision of my career and future endeavors. At Virinchi teachers and students are more like friends and learning is a joyful experience. We all come here to learn, not to read. Workshops and training help us to develop profound skills in ourselves. Choosing Virinchi is one of the finest decisions I have ever made. “
-                                                                    </p>
-                                                                    <div class="media">
-                                                                        <img src="assets/img/MANJU_ITANI.jpg" class="mr-3" alt="..." />
-                                                                        <div class="media-body">
-                                                                            <h5>Manju Itani</h5>
-                                                                            <p>BICT Student</p>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                            <div class="swiper-slide">
-                                                                <div class="testimonial__swiper--card">
-                                                                    <p>
-                                                                        “ The MBA program at Virinchi College is a demanding and intensive program that will help to take our career to the next level. Coming from an IT background, I decided to join MBA as I wanted to develop greater proficiency in public speaking, report preparation, strategic analysis, leadership, and project management which were all covered by Virinchi's MBA. “
-                                                                    </p>
-                                                                    <div class="media">
-                                                                        <img src="assets/img/Nuishan_Maskey.jpg" class="mr-3" alt="..." />
-                                                                        <div class="media-body">
-                                                                            <h5>Nuishan Maskey</h5>
-                                                                            <p>MBA Student</p>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                            <div class="swiper-slide">
-                                                                <div class="testimonial__swiper--card">
-                                                                    <p>
-                                                                        “ Smart by Intellect, that is one thing that Virinchi College urges in and to far extent succeed in teaching to its students which invariably helps to achieve what you need. It nourished me and thus gave me an opportunity to define me. “
-                                                                    </p>
-                                                                    <div class="media">
-                                                                        <img src="assets/img/Sachet_Manandhar.jpg" class="mr-3" alt="..." />
-                                                                        <div class="media-body">
-                                                                            <h5>Sachet Manandhar</h5>
-                                                                            <p>BICT Student</p>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                            <div class="swiper-slide">
-                                                                <div class="testimonial__swiper--card">
-                                                                    <p>
-                                                                        “ It is my immense fortune to be a part of Virinchi College. My experience at Virinchi College has been wonderful till now. Career development is a continuous process and MBA at Virinchi has been a journey of my career. MBA has helped me to upgrade myself as an entrepreneur & learn managerial skills." “
-                                                                    </p>
-                                                                    <div class="media">
-                                                                        <img src="assets/img/Soni_Gurung.jpg" class="mr-3" alt="..." />
-                                                                        <div class="media-body">
-                                                                            <h5>Soni Gurung</h5>
-                                                                            <p>MBA Student</p>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <div class="swiper-button-prev"></div>
-                                                        <div class="swiper-button-next"></div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                        <div class="tab-pane fade" id="list-alumni" role="tabpanel" aria-labelledby="list-alumni-list">
-                                            <div class="row">
-                                                <div class="col-md-10 col-12">
-                                                    <div class="swiper testimonial__swiper">
-                                                        <div class="swiper-wrapper">
-                                                            <div class="swiper-slide">
-                                                                <div class="testimonial__swiper--card">
-                                                                    <p>
-                                                                        “ My experience with the Virinchi MBA program has been great. Supportive instructors, flexible class schedules, group interactions, and an awareness of the practical components of the courses have all aided my learning and helped me to apply what I’ve learned in the workplace. In an addition, it has provided me the confidence to advance in my career path. Hence, I would strongly suggest Virinchi College for working professionals and regular students. “
-                                                                    </p>
-                                                                    <div class="media">
-                                                                        <img src="assets/img/Sonika_Jha.jpeg" class="mr-3" alt="..." />
-                                                                        <div class="media-body">
-                                                                            <h5>Sonika Jha</h5>
-                                                                            <p>MBA Student</p>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                            <div class="swiper-slide">
-                                                                <div class="testimonial__swiper--card">
-                                                                    <p>
-                                                                        “ I will Cherish my years in Virinchi forever and thank the college for shaping my personality and turning me into a capable ICT professional. “
-                                                                    </p>
-                                                                    <div class="media">
-                                                                        <img src="assets/img/SANIL_SHRESTHA.jpg" class="mr-3" alt="..." />
-                                                                        <div class="media-body">
-                                                                            <h5>Sanil Shrestha</h5>
-                                                                            <p>BICT Student</p>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <div class="swiper-button-prev"></div>
-                                                        <div class="swiper-button-next"></div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                        <div class="tab-pane fade" id="list-faculty" role="tabpanel" aria-labelledby="list-faculty-list">
-                                            <div class="row">
-                                                <div class="col-md-10 col-12">
-                                                    <div class="swiper testimonial__swiper">
-                                                        <div class="swiper-wrapper">
-                                                            <div class="swiper-slide">
-                                                                <div class="testimonial__swiper--card">
-                                                                    <p>
-                                                                        “ It is a great honor to be part of the Virinchi Faculty of Software Engineering. It has been an intense academic experience for me as an academic facilitator, Virinchi is attracting great and highly-motivated students who want to pursue their careers in ICT. It is an honor to be part of Virinchi team. “
-                                                                    </p>
-                                                                    <div class="media">
-                                                                        <img src="assets/img/Rajesh_Singh.jpeg" class="mr-3" alt="..." />
-                                                                        <div class="media-body">
-                                                                            <h5>Rajesh Singh</h5>
-                                                                            <p>Faculty of SOFTWARE TESTING|QUALITY ASSURANCE</p>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-
-                                                        </div>
-                                                        <div class="swiper-button-prev"></div>
-                                                        <div class="swiper-button-next"></div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- Testimonial End -->
 
     </main>
 

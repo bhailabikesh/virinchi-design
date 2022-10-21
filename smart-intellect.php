@@ -38,44 +38,23 @@
     <!-- Banner End -->
 
     <main>
-        <!-- About Start -->
-        <div class="about-virinchi">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-6">
-                        <div class="img_container">
-                           <img src="assets/img/life (2).jpg" alt="">
-                        </div>
-                    </div>
 
-                    <div class="col-md-6">
-                        <div class="detail-box">
-                            <div class="section-title">
-                                <h2>Smart By <span>Intellect</span></h2>
-                            </div>
-                            <p>
-                                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laudantium corporis perspiciatis itaque, blanditiis dolore magnam adipisci ea pariatur voluptatem rerum aut! Illum, recusandae nesciunt fuga dignissimos ipsam facere nobis nisi officia tempore possimus autem eum doloremque sunt neque veniam ea eius consectetur incidunt excepturi a animi perferendis commodi! Vero, molestiae?
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- About End -->
 
         <!-- Our Mission Start -->
-        <div class="mission">
+        <div class="mission mt-5">
             <div class="container">
                 <div class="overview-content">
-                    <h3 class="course-title">More about <span>Intellect</span></h3>
+                    <div class="section-title mb-3">
+                        <h2>Meaning Of <span>Smart By Intellect</span></h2>
+                    </div>
                     <p>
-                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quo aut explicabo nihil ad ab eaque magnam deserunt laboriosam non enim mollitia quaerat distinctio, ut, nisi fuga incidunt exercitationem sed iste id. Saepe pariatur quaerat perspiciatis aperiam nesciunt. Quis sequi, aspernatur velit aut cupiditate ipsa ducimus quae fugit labore nam illum.
+                        Smart - perhaps a cliché today, for us, it’s the goal - to make our students smart to create an accomplished life. Once a Virinchian, you are set for a wonderful career as an entrepreneur or highly sought human resource.
                     </p>
                     <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea inventore, vel nobis magni omnis dolorem recusandae voluptas voluptatem iure quasi!
+                        Every day at Virinchi is brick by brick accumulation of knowledge and experience in a pleasant environment. We design each brick with utmost sincerity and thoughtfulness so that these add to the pupil’s intellectuality to solve complex of problems at ease, professionally and personally.
                     </p>
                     <p>
-                        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Repellendus, sit! Officiis exercitationem, soluta excepturi, ad dolorem culpa quam iusto in harum reiciendis voluptatibus quisquam totam repellendus officia necessitatibus architecto eos minima labore cupiditate? Eos, porro? Nostrum pariatur rem vitae consequatur! Iusto quidem hic omnis. Molestiae voluptatibus voluptatem vitae sit corrupti eaque, cumque reprehenderit. Autem neque adipisci, totam ad id laudantium quis officiis repudiandae veritatis quia aliquam! Odit illum ipsam soluta a sed nostrum. Nesciunt repellendus molestiae facere soluta! Accusamus, quia.
+                        At each touch point, be it with infrastructure of the college or teachers or peers, we ensure, each individual brings change in oneself so that one’s cognitive ability is at its best. We promote team work, and our students are best performers in any team. We don’t just talk about creativity, we have courses designed to teach students how one can be creative.
                     </p>
                 </div>
             </div>

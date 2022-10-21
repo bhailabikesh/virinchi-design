@@ -38,38 +38,21 @@
     <!-- Banner End -->
 
     <main>
-        <!-- About Start -->
-        <div class="about-virinchi">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-6">
-                        <div class="img_container">
-                           <img src="assets/img/life (2).jpg" alt="">
-                        </div>
-                    </div>
-
-                    <div class="col-md-6">
-                        <div class="detail-box">
-                            <div class="section-title">
-                                <h2>Collab<span>oration</span></h2>
-                            </div>
-                            <p>
-                                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laudantium corporis perspiciatis itaque, blanditiis dolore magnam adipisci ea pariatur voluptatem rerum aut! Illum, recusandae nesciunt fuga dignissimos ipsam facere nobis nisi officia tempore possimus autem eum doloremque sunt neque veniam ea eius consectetur incidunt excepturi a animi perferendis commodi! Vero, molestiae?
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- About End -->
 
         <!-- Our Mission Start -->
         <div class="mission">
             <div class="container">
                 <div class="overview-content">
+                    <br><br>
                     <h3 class="course-title">Why collaborate <span>Virinchi?</span></h3>
                     <p>
                         Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quo aut explicabo nihil ad ab eaque magnam deserunt laboriosam non enim mollitia quaerat distinctio, ut, nisi fuga incidunt exercitationem sed iste id. Saepe pariatur quaerat perspiciatis aperiam nesciunt. Quis sequi, aspernatur velit aut cupiditate ipsa ducimus quae fugit labore nam illum.
+                    </p>
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea inventore, vel nobis magni omnis dolorem recusandae voluptas voluptatem iure quasi!
+                    </p>
+                    <p>
+                        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Repellendus, sit! Officiis exercitationem, soluta excepturi, ad dolorem culpa quam iusto in harum reiciendis voluptatibus quisquam totam repellendus officia necessitatibus architecto eos minima labore cupiditate? Eos, porro? Nostrum pariatur rem vitae consequatur! Iusto quidem hic omnis. Molestiae voluptatibus voluptatem vitae sit corrupti eaque, cumque reprehenderit. Autem neque adipisci, totam ad id laudantium quis officiis repudiandae veritatis quia aliquam! Odit illum ipsam soluta a sed nostrum. Nesciunt repellendus molestiae facere soluta! Accusamus, quia.
                     </p>
                     <p>
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea inventore, vel nobis magni omnis dolorem recusandae voluptas voluptatem iure quasi!

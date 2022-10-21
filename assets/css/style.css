@@ -2270,6 +2270,12 @@ video {
 .hexagonal-wrapper .hex-grid.center {
   width: 80%;
   margin: 0 auto;
+  
+  margin-top: -10px;
+}
+
+.hexagonal-wrapper .hex-grid:last-child {
+    margin-top: -10px;
 }
 
 @media screen and (max-width: 1200px) {
@@ -2283,6 +2289,10 @@ video {
   .hexagonal-wrapper .hex-grid.center {
     width: 65%;
   }
+  
+  .hexagonal-wrapper .hex-grid:last-child {
+        margin-top: 0;
+    }
 }
 
 @media screen and (max-width: 576px) {
@@ -2294,10 +2304,10 @@ video {
 .hexagonal-wrapper .hex-grid .hex {
   width: 250px;
   height: 265px;
-  margin: 0px 15px;
+  margin: 0px 23px;
 }
 .hexagonal-wrapper .center .hex:nth-child(2) {
-  transform: scale(1.2);
+  transform: scale(1.05);
 }
 
 .hexagonal-wrapper .hex-grid .hex .hex-inner {
@@ -2475,7 +2485,19 @@ h .hexagonal-wrapper .hex-grid .hex .hex-inner .hex-back p {
 /* About Virinchi */
 .about-virinchi {
   position: relative;
-  padding: 50px 0;
+  padding: 50px 0 20px;
+}
+
+.about-virinchi-features {
+  padding: 20px 0 50px;
+}
+
+.about-virinchi-features ul {
+  margin: 20px 0;
+}
+
+.about-virinchi-features ul li {
+  font-size: 17px;
 }
 
 .about-virinchi .row {
@@ -2969,7 +2991,7 @@ h .hexagonal-wrapper .hex-grid .hex .hex-inner .hex-back p {
   }
 
   .program {
-    padding: 130px 0;
+    padding: 110px 0 0;
   }
   .events-wrapper {
     margin-top: 30px;
@@ -3176,6 +3198,11 @@ h .hexagonal-wrapper .hex-grid .hex .hex-inner .hex-back p {
 
   .inner-title {
     width: 100%;
+  }
+  
+  .footer .secondary-btn {
+      padding: 10px;
+      font-size: 14px;
   }
 }
 

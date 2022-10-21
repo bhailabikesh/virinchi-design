@@ -205,79 +205,85 @@
           <h2>MBA activities<span> PHOTOS</span></h2>
         </div>
           <div class="gallery-content">
-            <div class="gallery-images">
-              <figure class="gallery-image gallery-image--1x1 loaded" id="image1">
-                <a href="#image1">
-                  <div class="gallery-image__crop" tabindex="-1">
-                    <img class="gallery-image__media lazyloaded" alt="Studying on Killian Court" src="assets/img/life (1).jpg" />
-                  </div>
-                  <figcaption class="gallery-image__caption">
-                    Studying on Killian Court
-                  </figcaption>
-                </a>
-              </figure>
-              <figure class="gallery-image gallery-image--1x1 loaded" id="image2">
-                <a href="#image2">
-                  <div class="gallery-image__crop" tabindex="-1">
-                    <img class="gallery-image__media lazyloaded" alt="Studying on Killian Court" src="assets/img/life (2).jpg" />
-                  </div>
-                  <figcaption class="gallery-image__caption">
-                    Studying on Killian Court
-                  </figcaption>
-                </a>
-              </figure>
-              <figure class="gallery-image gallery-image--1x12 loaded" id="image3">
-                <a href="#image3">
-                  <div class="gallery-image__crop" tabindex="-1">
-                    <img class="gallery-image__media lazyloaded" alt="Studying on Killian Court" src="assets/img/life (3).jpg" />
-                  </div>
-                  <figcaption class="gallery-image__caption">
-                    Studying on Killian Court
-                  </figcaption>
-                </a>
-              </figure>
-              <figure class="gallery-image gallery-image--1x12 loaded" id="image4">
-                <a href="#image4">
-                  <div class="gallery-image__crop" tabindex="-1">
-                    <img class="gallery-image__media lazyloaded" alt="Studying on Killian Court" src="assets/img/life (4).jpg" />
-                  </div>
-                  <figcaption class="gallery-image__caption">
-                    Studying on Killian Court
-                  </figcaption>
-                </a>
-              </figure>
-              <figure class="gallery-image gallery-image--1x3 loaded" id="image5">
-                <a href="#image5">
-                  <div class="gallery-image__crop" tabindex="-1">
-                    <img class="gallery-image__media lazyloaded" alt="Studying on Killian Court" src="assets/img/life (5).jpg" />
-                  </div>
-                  <figcaption class="gallery-image__caption">
-                    Studying on Killian Court
-                  </figcaption>
-                </a>
-              </figure>
-              <figure class="gallery-image gallery-image--1x12 loaded" id="image6">
-                <a href="#image6">
-                  <div class="gallery-image__crop" tabindex="-1">
-                    <img class="gallery-image__media lazyloaded" alt="Studying on Killian Court" src="assets/img/life (6).jpg" />
-                  </div>
-                  <figcaption class="gallery-image__caption">
-                    Studying on Killian Court
-                  </figcaption>
-                </a>
-              </figure>
-              <figure class="gallery-image gallery-image--1x1 loaded" id="image7">
-                <a href="#image7">
-                  <div class="gallery-image__crop" tabindex="-1">
-                    <img class="gallery-image__media lazyloaded" alt="Studying on Killian Court" src="assets/img/life (7).jpg" />
-                  </div>
-                  <figcaption class="gallery-image__caption">
-                    Studying on Killian Court
-                  </figcaption>
-                </a>
-              </figure>
-            </div>
+          <div class="gallery-images">
+            <figure class="gallery-image gallery-image--1x1 loaded" id="image1">
+              <a href="#image1">
+                <div class="gallery-image__crop" tabindex="-1">
+                  <img class="gallery-image__media lazyloaded" alt="learning with fun" src="assets/img/mba/mba-1.jpg" />
+                </div>
+                <figcaption class="gallery-image__caption">
+                  Learning with fun
+                </figcaption>
+              </a>
+            </figure>
+
+            <figure class="gallery-image gallery-image--1x1 loaded" id="image2">
+              <a href="#image2">
+                <div class="gallery-image__crop" tabindex="-1">
+                  <img class="gallery-image__media lazyloaded" alt="7 Annual Sports Week 2022" src="assets/img/mba/mba-2.jpg" />
+                </div>
+                <figcaption class="gallery-image__caption">
+                  7 Annual Sports Week 2022
+                </figcaption>
+              </a>
+            </figure>
+
+            <figure class="gallery-image gallery-image--1x12 loaded" id="image3">
+              <a href="#image3">
+                <div class="gallery-image__crop" tabindex="-1">
+                  <img class="gallery-image__media lazyloaded" alt="During Group Presentation" src="assets/img/mba/mba-3.jpg" />
+                </div>
+                <figcaption class="gallery-image__caption">
+                  During Group Presentation
+                </figcaption>
+              </a>
+            </figure>
+
+            <figure class="gallery-image gallery-image--1x12 loaded" id="image4">
+              <a href="#image4">
+                <div class="gallery-image__crop" tabindex="-1">
+                  <img class="gallery-image__media lazyloaded" alt="MBA Graduates at Convocation 2022" src="assets/img/mba/mba-4.jpg" />
+                </div>
+                <figcaption class="gallery-image__caption">
+                MBA Graduates at Convocation 2022
+                </figcaption>
+              </a>
+            </figure>
+
+            <figure class="gallery-image gallery-image--1x3 loaded" id="image5">
+              <a href="#image5">
+                <div class="gallery-image__crop" tabindex="-1">
+                  <img class="gallery-image__media lazyloaded" alt="Celebrating Convocation 2022" src="assets/img/mba/mba-5.jpg" />
+                </div>
+                <figcaption class="gallery-image__caption">
+                  MBA retreat
+                </figcaption>
+              </a>
+            </figure>
+
+            <figure class="gallery-image gallery-image--1x12 loaded" id="image6">
+              <a href="#image6">
+                <div class="gallery-image__crop" tabindex="-1">
+                  <img class="gallery-image__media lazyloaded" alt="Refreshment after morning class" src="assets/img/mba/mba-6.jpg" />
+                </div>
+                <figcaption class="gallery-image__caption">
+                  Refreshment after morning class
+                </figcaption>
+              </a>
+            </figure>
+
+            <figure class="gallery-image gallery-image--1x1 loaded" id="image7">
+              <a href="#image7">
+                <div class="gallery-image__crop" tabindex="-1">
+                  <img class="gallery-image__media lazyloaded" alt="Virinchians' moment" src="assets/img/mba/mba-7.jpg" />
+                </div>
+                <figcaption class="gallery-image__caption">
+                  Virinchians' moment
+                </figcaption>
+              </a>
+            </figure>
           </div>
+        </div>
         </div>
       </div>
       <!-- Photo Gallery End -->

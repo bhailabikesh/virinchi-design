@@ -133,10 +133,10 @@
             <figure class="gallery-image gallery-image--1x1 loaded" id="image1">
               <a href="#image1">
                 <div class="gallery-image__crop" tabindex="-1">
-                  <img class="gallery-image__media lazyloaded" alt="Studying on Killian Court" src="assets/img/life (1).jpg" />
+                  <img class="gallery-image__media lazyloaded" alt="Preparing Home Automation For Exhibition" src="assets/img/life/life-1.jpg" />
                 </div>
                 <figcaption class="gallery-image__caption">
-                  PREPARING HOME AUTOMATION FOR EXIBITION
+                  Preparing Home Automation For Exhibition
                 </figcaption>
               </a>
             </figure>
@@ -144,7 +144,7 @@
             <figure class="gallery-image gallery-image--1x1 loaded" id="image2">
               <a href="#image2">
                 <div class="gallery-image__crop" tabindex="-1">
-                  <img class="gallery-image__media lazyloaded" alt="Studying on Killian Court" src="assets/img/life (2).jpg" />
+                  <img class="gallery-image__media lazyloaded" alt="Virinchians' together" src="assets/img/life/life-2.jpg" />
                 </div>
                 <figcaption class="gallery-image__caption">
                   Virinchians' together
@@ -155,7 +155,7 @@
             <figure class="gallery-image gallery-image--1x12 loaded" id="image3">
               <a href="#image3">
                 <div class="gallery-image__crop" tabindex="-1">
-                  <img class="gallery-image__media lazyloaded" alt="Studying on Killian Court" src="assets/img/life (3).jpg" />
+                  <img class="gallery-image__media lazyloaded" alt="View of INFINITY CUBE created during ICT Mela" src="assets/img/life/life-3.jpg" />
                 </div>
                 <figcaption class="gallery-image__caption">
                   View of INFINITY CUBE created during ICT Mela
@@ -166,7 +166,7 @@
             <figure class="gallery-image gallery-image--1x12 loaded" id="image4">
               <a href="#image4">
                 <div class="gallery-image__crop" tabindex="-1">
-                  <img class="gallery-image__media lazyloaded" alt="Studying on Killian Court" src="assets/img/life (4).jpg" />
+                  <img class="gallery-image__media lazyloaded" alt="Makers of Robo Ramp Race" src="assets/img/life/life-4.jpg" />
                 </div>
                 <figcaption class="gallery-image__caption">
                   Makers of Robo Ramp Race
@@ -177,7 +177,7 @@
             <figure class="gallery-image gallery-image--1x3 loaded" id="image5">
               <a href="#image5">
                 <div class="gallery-image__crop" tabindex="-1">
-                  <img class="gallery-image__media lazyloaded" alt="Celebrating Convocation 2022" src="assets/img/life (5).jpg" />
+                  <img class="gallery-image__media lazyloaded" alt="Celebrating Convocation 2022" src="assets/img/life/life-5.jpg" />
                 </div>
                 <figcaption class="gallery-image__caption">
                   Celebrating Convocation 2022
@@ -188,7 +188,7 @@
             <figure class="gallery-image gallery-image--1x12 loaded" id="image6">
               <a href="#image6">
                 <div class="gallery-image__crop" tabindex="-1">
-                  <img class="gallery-image__media lazyloaded" alt="Performers at 5th V- Celebration" src="assets/img/life (6).jfif" />
+                  <img class="gallery-image__media lazyloaded" alt="Performers at 5th V- Celebration" src="assets/img/life/life-6.jpg" />
                 </div>
                 <figcaption class="gallery-image__caption">
                   Performers at 5th V- Celebration
@@ -199,7 +199,7 @@
             <figure class="gallery-image gallery-image--1x1 loaded" id="image7">
               <a href="#image7">
                 <div class="gallery-image__crop" tabindex="-1">
-                  <img class="gallery-image__media lazyloaded" alt="College Building" src="assets/img/life (7).jpeg" />
+                  <img class="gallery-image__media lazyloaded" alt="College Building" src="assets/img/life/life-7.jpg" />
                 </div>
                 <figcaption class="gallery-image__caption">
                   College Building
@@ -589,8 +589,8 @@
 
     <!-- Quick Action Start -->
     <section class="quick-action">
-      <div class="container h-100">
-        <div class="row h-100">
+      <div class="container">
+        <div class="row">
           <div class="col-12 mx-auto">
             <div class="quick-action__wrapper">
               <div>
