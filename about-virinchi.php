@@ -63,42 +63,90 @@
         <!-- About End -->
 
         <!-- Our Mission Start -->
-        <!-- <div class="mission">
+        <div class="mission">
             <div class="container">
                 <div class="overview-content">
-                    <h3 class="course-title">Our <span>Mission</span></h3>
+                    <h3 class="course-title">More About<span> Virinchi</span></h3>
                     <p>
-                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quo aut explicabo nihil ad ab eaque magnam deserunt laboriosam non enim mollitia quaerat distinctio, ut, nisi fuga incidunt exercitationem sed iste id. Saepe pariatur quaerat perspiciatis aperiam nesciunt. Quis sequi, aspernatur velit aut cupiditate ipsa ducimus quae fugit labore nam illum.
+                        VC always believes in creating and applying knowledge by thinking and doing among Virinchians, thus educating the workforce of the future.
                     </p>
                     <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea inventore, vel nobis magni omnis dolorem recusandae voluptas voluptatem iure quasi!
-                    </p>
-                    <p>
-                        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Repellendus, sit! Officiis exercitationem, soluta excepturi, ad dolorem culpa quam iusto in harum reiciendis voluptatibus quisquam totam repellendus officia necessitatibus architecto eos minima labore cupiditate? Eos, porro? Nostrum pariatur rem vitae consequatur! Iusto quidem hic omnis. Molestiae voluptatibus voluptatem vitae sit corrupti eaque, cumque reprehenderit. Autem neque adipisci, totam ad id laudantium quis officiis repudiandae veritatis quia aliquam! Odit illum ipsam soluta a sed nostrum. Nesciunt repellendus molestiae facere soluta! Accusamus, quia.
+                        In this regard, we have been successful in establishing a distinctive identity as the pioneer ICT College in Nepal and offer courses that are relevant to the current job market, and enhance the employability of each and every student. We are working to leverage pedagogical strategies and technologies to develop students’ critical thinking, creative abilities, entrepreneurial and communication skills.
                     </p>
                 </div>
             </div>
-        </div> -->
+        </div>
         <!-- Our Mission End -->
 
-        <!-- Our Vision Start -->
-        <!-- <div class="vision">
+        <!-- Counter Start -->
+        <div class="counter-section">
             <div class="container">
-                <div class="overview-content">
-                    <h3 class="course-title">Our <span>Vision</span></h3>
-                    <p>
-                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quo aut explicabo nihil ad ab eaque magnam deserunt laboriosam non enim mollitia quaerat distinctio, ut, nisi fuga incidunt exercitationem sed iste id. Saepe pariatur quaerat perspiciatis aperiam nesciunt. Quis sequi, aspernatur velit aut cupiditate ipsa ducimus quae fugit labore nam illum.
-                    </p>
-                    <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea inventore, vel nobis magni omnis dolorem recusandae voluptas voluptatem iure quasi!
-                    </p>
-                    <p>
-                        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Repellendus, sit! Officiis exercitationem, soluta excepturi, ad dolorem culpa quam iusto in harum reiciendis voluptatibus quisquam totam repellendus officia necessitatibus architecto eos minima labore cupiditate? Eos, porro? Nostrum pariatur rem vitae consequatur! Iusto quidem hic omnis. Molestiae voluptatibus voluptatem vitae sit corrupti eaque, cumque reprehenderit. Autem neque adipisci, totam ad id laudantium quis officiis repudiandae veritatis quia aliquam! Odit illum ipsam soluta a sed nostrum. Nesciunt repellendus molestiae facere soluta! Accusamus, quia.
-                    </p>
+                <div class="row">
+                    <div class="col-lg-4 mx-auto">
+                        <div class="counter-card card border-0">
+                            <div class="card-body">
+                                <h2 class="counter-card-title"><span class="counter">99</span>%</h2>
+                                <p>Grauduate on Time</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 mx-auto">
+                        <div class="counter-card card border-0">
+                            <div class="card-body">
+                                <h2 class="counter-card-title"><span class="counter">98</span>%</h2>
+                                <p>Industries Readiness</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 mx-auto">
+                        <div class="counter-card card border-0">
+                            <div class="card-body">
+                                <h2 class="counter-card-title"><span class="counter">99</span>%</h2>
+                                <p>Grauduates Employed</p>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
-        </div> -->
-        <!-- Our Vision End -->
+        </div>
+        <!-- Counter End -->
+
+        <!-- Education Model Start -->
+        <div class="mission mt-5">
+            <div class="container">
+                <div class="overview-content">
+                    <h3 class="course-title">Education<span> Model</span></h3>
+
+                    <p>
+                        Today’s students must have competency to be able to compete in the highly competitive global economy. The student of today needs to be more job ready and know more than just theories if they are to compete for the jobs of tomorrow. Exactly how this unique perspective has shaped the education model to transform students to workforce at Virinchi College. Our education model is driven towards:
+                    </p>
+
+                    <ol class="model-list">
+                        <li>
+                            <h6>Industry Readiness</h6>
+                            <p>
+                                We bridge education to workforce for students. Virinchi College offers special courses that enables BICT students to develop the range of skills to become industry ready. These hands on lab are based on future demands, business requirements and features of programing languages.
+                            </p>
+                        </li>
+                        <li>
+                            <h6>Practicing Professionals </h6>
+                            <p>
+                                We bring industry experience in to the classroom. Our faculties are Practicing ICT experts with industrial experience bringing a real world perspective in BICT program. The vast majority of students will begin careers in industry after graduation and therefore would benefit from the experience and lessons learned from those who have really encountered the problems while functioning as a full time practicing professionals. ICT experts who are from industry are also able to relate with industrial partners more easily. They “talk their language” and can therefore help forge additional bonds with industry..
+                            </p>
+                        </li>
+                        <li>
+                            <h6>Curriculum for Skill Enhancement</h6>
+                            <p>
+                                Our curriculum helps faculties stay at the forefront of ICT innovation so that they can equip students with the skills they need to get hired in one of the fastest-growing industries..
+                            </p>
+                        </li>
+                    </ol>
+                </div>
+            </div>
+        </div>
+        <!-- Education Model End -->
+
+
 
     </main>
 
@@ -118,6 +166,8 @@
     <script src="./assets/js/jquery.scrollUp.min.js"></script>
     <script src="./assets/js/jquery.nice-select.min.js"></script>
     <script src="./assets/js/jquery.sticky.js"></script>
+    <script src="./assets/js/jquery-waypoints.min.js"></script>
+    <script src="./assets/js/counterup.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.matchHeight/0.7.2/jquery.matchHeight-min.js"></script>
     <!--  main JS -->
     <script src="./assets/js/main.js"></script>
@@ -230,6 +280,15 @@
                 hex.children[1].children[0].style.display = "block";
 
                 hex.children[1].children[1].style.display = "none";
+            });
+        });
+    </script>
+
+    <script>
+        jQuery(document).ready(function($) {
+            $('.counter').counterUp({
+                delay: 10,
+                time: 1000
             });
         });
     </script>

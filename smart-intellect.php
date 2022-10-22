@@ -56,6 +56,15 @@
                     <p>
                         At each touch point, be it with infrastructure of the college or teachers or peers, we ensure, each individual brings change in oneself so that one’s cognitive ability is at its best. We promote team work, and our students are best performers in any team. We don’t just talk about creativity, we have courses designed to teach students how one can be creative.
                     </p>
+                    <p>
+                        The goal is accomplished by making each student continuous participation, practice and improvisation through under given programs;
+                    </p>
+                    <ol class="ml-5">
+                        <li>Teach 2 Learn</li>
+                        <li>Clubs</li>
+                        <li>ICT Mela</li>
+                        <li>Public Speaking</li>
+                    </ol>
                 </div>
             </div>
         </div>

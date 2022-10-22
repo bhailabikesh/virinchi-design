@@ -113,16 +113,16 @@
                         <i class="material-icons drop">expand_more</i>
                       </div>
                       <div class="answer-wrapper">
-                        <p class="answer">
-                          Marketing Management
-                          Strategic Management – Asian Business
-                          Managerial Economics
-                          Business Statistics
-                          International Business
-                          Managing People in Organization
-                          Accounting and Finance for Managers
-                          Project Paper (Thesis)
-                        </p>
+                        <ul class="answer-list">
+                          <li>Marketing Management</li>
+                          <li>Strategic Management - Asian Business</li>
+                          <li>Managerial Economics</li>
+                          <li>Business Statistics</li>
+                          <li>Interntional Business</li>
+                          <li>Managing People in Organization</li>
+                          <li>Accounting and Finance for Managers</li>
+                          <li>Project Paper (Thesis)</li>
+                        </ul>
                       </div>
                     </div>
                     <div class="faq accordion">
@@ -133,19 +133,19 @@
                         <i class="material-icons drop">expand_more</i>
                       </div>
                       <div class="answer-wrapper">
-                        <p class="answer">
+                        <p class="answer pb-0 mb-0">
                           Elective subjects extend further knowhow of the profession decided to opt by the scholars to enhance
                           their competencies.
-
-                          Quality and Change Management
-                          Corporate Communication
-
-                          Project Management
-                          Cyber Law
-                          Operations Management
-                          Business Research Methods
-                          Risk Analysis and Management
                         </p>
+                        <ul class="answer-list">
+                          <li>Quality and Change Management</li>
+                          <li>Corporate Communication</li>
+                          <li>Project Management</li>
+                          <li>Cyber Law</li>
+                          <li>Operations Management</li>
+                          <li>Business Research Methods</li>
+                          <li>Risk Analysis and Management</li>
+                        </ul>
                       </div>
                     </div>
                     <div class="faq accordion">
@@ -158,13 +158,15 @@
                         <i class="material-icons drop">expand_more</i>
                       </div>
                       <div class="answer-wrapper">
-                        <p class="answer">
+                        <p class="answer pb-0 mb-0">
                           Entrepreneurship, probably the best profession in global management arena has been offered in
                           specialization area as per current business requirement and future demands.
-                          Entrepreneurship and Innovations
-                          Entrepreneurship Risk Management
-                          Supply Chain Management
                         </p>
+                        <ul class="answer-list">
+                          <li>Entrepreneurship and Innovations</li>
+                          <li>Entrepreneurship Risk Management</li>
+                          <li>Supply Chain Management</li>
+                        </ul>
                       </div>
                     </div>
 
@@ -201,89 +203,89 @@
       <!-- Photo Gallery  -->
       <div class="life photo-gallery" id="photo-gallery">
         <div class="container">
-        <div class="section-title mb-5">
-          <h2>MBA activities<span> PHOTOS</span></h2>
-        </div>
-          <div class="gallery-content">
-          <div class="gallery-images">
-            <figure class="gallery-image gallery-image--1x1 loaded" id="image1">
-              <a href="#image1">
-                <div class="gallery-image__crop" tabindex="-1">
-                  <img class="gallery-image__media lazyloaded" alt="learning with fun" src="assets/img/mba/mba-1.jpg" />
-                </div>
-                <figcaption class="gallery-image__caption">
-                  Learning with fun
-                </figcaption>
-              </a>
-            </figure>
-
-            <figure class="gallery-image gallery-image--1x1 loaded" id="image2">
-              <a href="#image2">
-                <div class="gallery-image__crop" tabindex="-1">
-                  <img class="gallery-image__media lazyloaded" alt="7 Annual Sports Week 2022" src="assets/img/mba/mba-2.jpg" />
-                </div>
-                <figcaption class="gallery-image__caption">
-                  7 Annual Sports Week 2022
-                </figcaption>
-              </a>
-            </figure>
-
-            <figure class="gallery-image gallery-image--1x12 loaded" id="image3">
-              <a href="#image3">
-                <div class="gallery-image__crop" tabindex="-1">
-                  <img class="gallery-image__media lazyloaded" alt="During Group Presentation" src="assets/img/mba/mba-3.jpg" />
-                </div>
-                <figcaption class="gallery-image__caption">
-                  During Group Presentation
-                </figcaption>
-              </a>
-            </figure>
-
-            <figure class="gallery-image gallery-image--1x12 loaded" id="image4">
-              <a href="#image4">
-                <div class="gallery-image__crop" tabindex="-1">
-                  <img class="gallery-image__media lazyloaded" alt="MBA Graduates at Convocation 2022" src="assets/img/mba/mba-4.jpg" />
-                </div>
-                <figcaption class="gallery-image__caption">
-                MBA Graduates at Convocation 2022
-                </figcaption>
-              </a>
-            </figure>
-
-            <figure class="gallery-image gallery-image--1x3 loaded" id="image5">
-              <a href="#image5">
-                <div class="gallery-image__crop" tabindex="-1">
-                  <img class="gallery-image__media lazyloaded" alt="Celebrating Convocation 2022" src="assets/img/mba/mba-5.jpg" />
-                </div>
-                <figcaption class="gallery-image__caption">
-                  MBA retreat
-                </figcaption>
-              </a>
-            </figure>
-
-            <figure class="gallery-image gallery-image--1x12 loaded" id="image6">
-              <a href="#image6">
-                <div class="gallery-image__crop" tabindex="-1">
-                  <img class="gallery-image__media lazyloaded" alt="Refreshment after morning class" src="assets/img/mba/mba-6.jpg" />
-                </div>
-                <figcaption class="gallery-image__caption">
-                  Refreshment after morning class
-                </figcaption>
-              </a>
-            </figure>
-
-            <figure class="gallery-image gallery-image--1x1 loaded" id="image7">
-              <a href="#image7">
-                <div class="gallery-image__crop" tabindex="-1">
-                  <img class="gallery-image__media lazyloaded" alt="Virinchians' moment" src="assets/img/mba/mba-7.jpg" />
-                </div>
-                <figcaption class="gallery-image__caption">
-                  Virinchians' moment
-                </figcaption>
-              </a>
-            </figure>
+          <div class="section-title mb-5">
+            <h2>MBA activities<span> PHOTOS</span></h2>
           </div>
-        </div>
+          <div class="gallery-content">
+            <div class="gallery-images">
+              <figure class="gallery-image gallery-image--1x1 loaded" id="image1">
+                <a href="#image1">
+                  <div class="gallery-image__crop" tabindex="-1">
+                    <img class="gallery-image__media lazyloaded" alt="learning with fun" src="assets/img/mba/mba-1.jpg" />
+                  </div>
+                  <figcaption class="gallery-image__caption">
+                    Learning with fun
+                  </figcaption>
+                </a>
+              </figure>
+
+              <figure class="gallery-image gallery-image--1x1 loaded" id="image2">
+                <a href="#image2">
+                  <div class="gallery-image__crop" tabindex="-1">
+                    <img class="gallery-image__media lazyloaded" alt="7 Annual Sports Week 2022" src="assets/img/mba/mba-2.jpg" />
+                  </div>
+                  <figcaption class="gallery-image__caption">
+                    7 Annual Sports Week 2022
+                  </figcaption>
+                </a>
+              </figure>
+
+              <figure class="gallery-image gallery-image--1x12 loaded" id="image3">
+                <a href="#image3">
+                  <div class="gallery-image__crop" tabindex="-1">
+                    <img class="gallery-image__media lazyloaded" alt="During Group Presentation" src="assets/img/mba/mba-3.jpg" />
+                  </div>
+                  <figcaption class="gallery-image__caption">
+                    During Group Presentation
+                  </figcaption>
+                </a>
+              </figure>
+
+              <figure class="gallery-image gallery-image--1x12 loaded" id="image4">
+                <a href="#image4">
+                  <div class="gallery-image__crop" tabindex="-1">
+                    <img class="gallery-image__media lazyloaded" alt="MBA Graduates at Convocation 2022" src="assets/img/mba/mba-4.jpg" />
+                  </div>
+                  <figcaption class="gallery-image__caption">
+                    MBA Graduates at Convocation 2022
+                  </figcaption>
+                </a>
+              </figure>
+
+              <figure class="gallery-image gallery-image--1x3 loaded" id="image5">
+                <a href="#image5">
+                  <div class="gallery-image__crop" tabindex="-1">
+                    <img class="gallery-image__media lazyloaded" alt="Celebrating Convocation 2022" src="assets/img/mba/mba-5.jpg" />
+                  </div>
+                  <figcaption class="gallery-image__caption">
+                    MBA retreat
+                  </figcaption>
+                </a>
+              </figure>
+
+              <figure class="gallery-image gallery-image--1x12 loaded" id="image6">
+                <a href="#image6">
+                  <div class="gallery-image__crop" tabindex="-1">
+                    <img class="gallery-image__media lazyloaded" alt="Refreshment after morning class" src="assets/img/mba/mba-6.jpg" />
+                  </div>
+                  <figcaption class="gallery-image__caption">
+                    Refreshment after morning class
+                  </figcaption>
+                </a>
+              </figure>
+
+              <figure class="gallery-image gallery-image--1x1 loaded" id="image7">
+                <a href="#image7">
+                  <div class="gallery-image__crop" tabindex="-1">
+                    <img class="gallery-image__media lazyloaded" alt="Virinchians' moment" src="assets/img/mba/mba-7.jpg" />
+                  </div>
+                  <figcaption class="gallery-image__caption">
+                    Virinchians' moment
+                  </figcaption>
+                </a>
+              </figure>
+            </div>
+          </div>
         </div>
       </div>
       <!-- Photo Gallery End -->

@@ -37,6 +37,14 @@ ul {
   list-style: none;
 }
 
+ol,ul {
+  font-size: 17px;
+}
+
+p {
+  font-size: 17px;
+}
+
 section {
   padding: 50px 0px 30px 0px;
   overflow-x: hidden;
@@ -1196,6 +1204,87 @@ section {
   top: 10%;
 }
 
+/* Counter */
+.counter-section {
+  background-image: linear-gradient(
+      to right bottom,
+      rgba(0, 0, 0, 0.1),
+      rgba(0, 0, 0, 0.1)
+    ),
+    url(../img/scope-bg.png);
+  background-size: cover;
+  /* background-attachment: fixed; */
+  background-position: center;
+  padding: 50px 0;
+}
+
+.counter-card {
+  background: transparent;
+  text-align: center;
+}
+
+.counter-card p {
+  font-size: 20px;
+  color: var(--color-white);
+  margin-bottom: 0;
+  margin-top: 15px;
+  font-weight: 500;
+}
+
+.counter-card-title {
+  font-size: 58px;
+  color: var(--color-white);
+  font-weight: 600;
+}
+
+@media screen and (max-width: 768px) {
+  .counter-section .counter-card {
+    margin-bottom: 15px;
+  }
+}
+
+.model-list {
+  margin-left: 20px;
+}
+
+.model-list li {
+  list-style-type: lower-roman;
+  font-weight: 600;
+}
+
+.model-list li h6 {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.model-list li p {
+  font-weight: 400;
+  font-size: 17px;
+}
+
+/* Inner Extra */
+.club-title {
+  font-size: 18px;
+  margin-bottom: 15px 0;
+  font-weight: 600;
+  display: block;
+}
+
+.club-detail ul {
+  margin-bottom: 20px;
+}
+
+.club-detail p,
+.club-detail ul li {
+  font-size: 17px;
+}
+
+.club-detail ul li {
+  list-style-type: disc;
+  margin-left: 20px;
+  margin: 5px 0 5px 20px;
+}
+
 /* *********************************************
 * Responsive Query
 * *********************************************/
@@ -2072,13 +2161,30 @@ video {
   transition: transform 0.5s ease-in-out;
 }
 .answer {
-  font-size: 16px;
+  font-size: 17px;
   color: #494949;
   padding: 16px;
   padding-left: 52px;
   padding-bottom: 32px;
   background-color: #fff;
   overflow: hidden;
+}
+
+.answer-list {
+  font-size: 17px;
+  color: #494949;
+  padding: 16px;
+  padding-left: 62px;
+  padding-bottom: 32px;
+  background-color: #fff;
+  overflow: hidden;
+
+  list-style-type: decimal;
+}
+
+.answer-list li {
+  margin-bottom: 8px;
+  font-weight: 500;
 }
 .accordion {
   background-color: #fff;
@@ -2270,12 +2376,12 @@ video {
 .hexagonal-wrapper .hex-grid.center {
   width: 80%;
   margin: 0 auto;
-  
+
   margin-top: -10px;
 }
 
 .hexagonal-wrapper .hex-grid:last-child {
-    margin-top: -10px;
+  margin-top: -10px;
 }
 
 @media screen and (max-width: 1200px) {
@@ -2289,10 +2395,10 @@ video {
   .hexagonal-wrapper .hex-grid.center {
     width: 65%;
   }
-  
+
   .hexagonal-wrapper .hex-grid:last-child {
-        margin-top: 0;
-    }
+    margin-top: 0;
+  }
 }
 
 @media screen and (max-width: 576px) {
@@ -2535,6 +2641,16 @@ h .hexagonal-wrapper .hex-grid .hex .hex-inner .hex-back p {
 .mission,
 .vision {
   padding-bottom: 30px;
+}
+
+.detail-box ol {
+  margin-left: 30px;
+  /* font-weight: bold; */
+}
+
+.detail-box ol li {
+  font-size: 18px;
+  margin-bottom: 10px;
 }
 
 /* Apply Now */
@@ -3199,10 +3315,10 @@ h .hexagonal-wrapper .hex-grid .hex .hex-inner .hex-back p {
   .inner-title {
     width: 100%;
   }
-  
+
   .footer .secondary-btn {
-      padding: 10px;
-      font-size: 14px;
+    padding: 10px;
+    font-size: 14px;
   }
 }
 

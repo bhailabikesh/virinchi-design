@@ -29,9 +29,9 @@
                                 <li>
                                     <a href="#">College <i class="fa fa-chevron-down"></i></a>
                                     <ul class="submenu">
-                                        <li><a href="#">ICT Mela</a></li>
-                                        <li><a href="#">Clubs</a></li>
-                                        <li><a href="#">Teach to Learn</a></li>
+                                        <li><a href="ict-mela.php">ICT Mela</a></li>
+                                        <li><a href="clubs.php">Clubs</a></li>
+                                        <!-- <li><a href="teach-to-learn.php">Teach to Learn</a></li> -->
                                     </ul>
                                 </li>
 

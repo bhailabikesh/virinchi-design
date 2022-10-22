@@ -296,16 +296,26 @@
                         <i class="material-icons drop">expand_more</i>
                       </div>
                       <div class="answer-wrapper">
-                        <p class="answer">
-                          Fundamental Concepts of ICT Object Oriented Programming Computer Ethics and
-                          Cyber Laws
-                          Introduction to Multimedia Computer Communication and Network
-                          Human Computer Interaction
-                          Operating Systems Computer Programming ICT Project Management
-                          Discrete Mathematics Knowledge Management Project Proposal
-                          Information System Analysis and Design Management Information Systems Final Project
-                          Database System Computer Security Industrial Training
-                        </p>
+                        <ul class="answer-list">
+                          <li>Fundamental Concepts of ICT</li>
+                          <li>Object Oriented Programming</li>
+                          <li>Computer Ethics and Cyber Laws</li>
+                          <li>Introdction to Multimedia</li>
+                          <li>Computer Communication and Network</li>
+                          <li>Human Computer Interaction</li>
+                          <li>Operating Systems</li>
+                          <li>Computer Programming</li>
+                          <li>ICT Project Management</li>
+                          <li>Discrete Mathematics</li>
+                          <li>Knowledge Management</li>
+                          <li>Project Proposal</li>
+                          <li>Information System Analysis and Design</li>
+                          <li>Management Information Systems</li>
+                          <li>Final Project</li>
+                          <li>Database System</li>
+                          <li>Computer Security</li>
+                          <li>Industrial Training</li>
+                        </ul>
                       </div>
                     </div>
                     <div class="faq accordion">
@@ -316,13 +326,15 @@
                         <i class="material-icons drop">expand_more</i>
                       </div>
                       <div class="answer-wrapper">
-                        <p class="answer">
-                          Fundamental of English Grammar Critical Thinking and Problem Solving Skills
-                          Computer Forensic
-                          Internet Security Web Economy
-                          Communication Skills
-                          Advanced Java Programming
-                        </p>
+                        <ul class="answer-list">
+                          <li>Fundamental of English Grammar</li>
+                          <li>Critical Thinking and Problem Solving Skills</li>
+                          <li>Computer Forensic</li>
+                          <li>Internet Security</li>
+                          <li>Web Economy</li>
+                          <li>Communication Skills</li>
+                          <li>Advanced Java Programming</li>
+                        </ul>
                       </div>
                     </div>
                     <div class="faq accordion">
@@ -335,19 +347,18 @@
                         <i class="material-icons drop">expand_more</i>
                       </div>
                       <div class="answer-wrapper">
-                        <p class="answer">
-                          Requirements Engineering
-
-                          Software Constructions
-                          Software Quality Assurance
-                          Software Integration &amp; Improvement
-                          Software Architecture &amp; Design
-                          Software Engineering for Real Time-System
-                          Agile Software Development
-                          Software Testing
-                          Usability Engineering
-                          Software Engineering
-                        </p>
+                        <ul class="answer-list">
+                          <li>Requirements Engineering</li>
+                          <li>Software Constructions</li>
+                          <li>Software Quality Assurance</li>
+                          <li>Software Integration &amp; Improvement</li>
+                          <li>Software Architecture &amp; Design</li>
+                          <li>Software Engineering for Real Time-System</li>
+                          <li>Agile Software Development</li>
+                          <li>Software Testing</li>
+                          <li>Usability Engineering</li>
+                          <li>Software Engineering</li>
+                        </ul>
                       </div>
                     </div>
                     <div class="faq accordion">
@@ -360,11 +371,11 @@
                         <i class="material-icons drop">expand_more</i>
                       </div>
                       <div class="answer-wrapper">
-                        <p class="answer">
-                          Information Literacy and Research Skills
-                          Entrepreneurship in Asia
-                          Internet &amp; WWW
-                        </p>
+                        <ul class="answer-list">
+                          <li>Information Literacy and Research Skills</li>
+                          <li>Entrepreneurship in Asia</li>
+                          <li>Internet &amp; WWW</li>
+                        </ul>
                       </div>
                     </div>
                     <div class="faq accordion">
@@ -377,11 +388,11 @@
                         <i class="material-icons drop">expand_more</i>
                       </div>
                       <div class="answer-wrapper">
-                        <p class="answer">
-                          Social Responsibility Project
-                          Comparative Ethics
-                          Academic Writing
-                        </p>
+                        <ul class="answer-list">
+                          <li>Social Responsibility Project</li>
+                          <li>Comparative Ethics</li>
+                          <li>Academic Writing</li>
+                        </ul>
                       </div>
                     </div>
                   </div>
